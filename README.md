@@ -31,7 +31,7 @@ npm run client
 
 ### Author
 
-Brad Traversy
+Sagar Pawar
 [Sagar Pawar](https://sagar-pawar-react-portfolio.netlify.com)
 
 ### Version
