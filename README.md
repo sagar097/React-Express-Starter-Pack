@@ -32,7 +32,7 @@ npm run client
 ### Author
 
 Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+[Sagar Pawar](https://sagar-pawar-react-portfolio.netlify.com)
 
 ### Version
 
